@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src=".github/bethehero.png" width="100%">
+  <img alt="BeTheHero" src="https://raw.githubusercontent.com/rocketseat-education/semana-omnistack-11/master/.github/bethehero.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
